@@ -1,16 +1,15 @@
-## Hi there 👋
+# Amy Bray — People Ops Systems & AI
 
-<!--
-**amybray-systems/amybray-systems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design scalable People Ops systems and build lightweight tools that make work smoother: onboarding automation, EOR/PEO workflows, analytics, and AI helpers.
 
-Here are some ideas to get you started:
+- 🔭 Current: AuniConnect (engagement app + Aunikah chatbot), HRIS process demos
+- 🧰 Tech: Python/Flask, SQL, Salesforce, Bullhorn, ADP WFN, GitHub Actions
+- 🤖 Focus: AI for employee support, ops automation, data integrity
+- 📝 Certs: PHR • CCWP • AI-900 (in-progress)
+- 🌐 Portfolio: [link]
+- ✉️ Contact: [email]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **AuniConnect** — HR engagement + chatbot (FAQ, escalation, kudos, challenges)
+- **Onboarding Ops Toolkit** — checklists, automations, audit-ready exports
+- **Payroll/Compliance Helpers** — mini-tools for rate/mileage/leave lookups
